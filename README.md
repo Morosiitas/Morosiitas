@@ -1,4 +1,4 @@
-<p align="center"> <img src="https://file.garden/Zdo7L-gxzVCR--Zn/THGUBN.png" width="400"></p>
+<p align="center"> <img src="https://file.garden/Zdo7L-gxzVCR--Zn/THGUBN.png" width="200"></p>
 <p align="center"> <img src=https://komarev.com/ghpvc/?username=Morosiitas&color=1135cb&style=flat-square&label=✦&base=20></p>
 
 <p align="center"> 
