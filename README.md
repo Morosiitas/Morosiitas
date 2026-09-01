@@ -5,8 +5,9 @@
 
 <p align="center">
   <a href="https://github.com/kittinan/spotify-github-profile">
-    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=axy5w50rrg44qmscakgbkierm&cover_image=true&theme=default&show_offline=false&background_color=020940&interchange=false&profanity=false&hide_remaster=false&bar_color=0767e4">
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=axy5w50rrg44qmscakgbkierm&cover_image=true&theme=natemoo-re&show_offline=false&background_color=050505&interchange=false&profanity=false&hide_remaster=false&bar_color=12208c&bar_color_cover=false">
   </a>
 </p>
+
 
 <p align="center"> <img src="https://64.media.tumblr.com/2122a2297af302d5a86af78b711b042e/04b70f5ef92aa44a-f2/s1280x1920/5fe4cea72162b83a44ce2ce5f06088edce4de208.jpg" width="400"></p>
