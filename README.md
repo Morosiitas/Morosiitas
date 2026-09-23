@@ -10,4 +10,4 @@
 </p>
 
 
-<p align="center"> <img src="https://file.garden/Zdo7L-gxzVCR--Zn/ay.png" width="400"></p>
+<p align="center"> <img src="https://file.garden/Zdo7L-gxzVCR--Zn/ay.png" width="600"></p>
