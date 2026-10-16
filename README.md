@@ -4,7 +4,7 @@
 <div align="center">
 <details>
 <summary>✦ Chesed, Merel or Nanite. (click) </summary>
-I like Pmoon especially lobcorp, Feel free to int with me! Whisper me!! i dont bite!! I'm off-tab most of the times unless my friends are on. I block & hide freely though, so please don't be weird thank you <3 I'm also not so fond of doubles but i don't reaaally care, just dont try to be-friend me. Also, Please do read my rentry before you interest though, that would be appreciated~</details></div>
+I like Pmoon especially lobcorp, Feel free to int with me! Whisper me!! i dont bite!! I'm off-tab most of the times unless my friends are on. I block & hide freely though, so please don't be weird thank you <3 I'm also not so fond of doubles but i don't reaaally care, just dont try to be-friend me. Also, Please do read my rentry before you interact though, that would be appreciated~</details></div>
 
 <p align="center">
   <a href="https://github.com/kittinan/spotify-github-profile">
