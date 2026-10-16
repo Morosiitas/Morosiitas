@@ -1,5 +1,5 @@
-<p align="center"> <img src="https://file.garden/Zdo7L-gxzVCR--Zn/ces.png" width="200"></p>
-<p align="center"> <img src=https://komarev.com/ghpvc/?username=Morosiitas&color=1135cb&style=flat-square&label=✦&base=20> ✦ <a href="https://toyhou.se/nanitesacid">art by me</a> </p>
+<p align="center"> <img src="https://file.garden/Zdo7L-gxzVCR--Zn/126781773_utz0HebxgEaALxJ.png" width="200"></p>
+<p align="center"> <img src=https://komarev.com/ghpvc/?username=Morosiitas&color=1135cb&style=flat-square&label=✦&base=20> ✦ <a href="https://toyhou.se/Kuribugg">art by Kuribugg</a> </p>
 
 <div align="center">
 <details>
